@@ -1,0 +1,13 @@
+codice_quartiere,popolazione_da_isolato,data,popolazione,codice_gruppo,codice_isolato,codice_localita,codice_municipalita,nome_gruppo,nome_localita,nome_municipalita,nome_quartiere,differenza_assoluta,differenza_relativa
+1,31743,2018-12-02,31742,1,270420001,270425001,1,Città d'acqua,San Marco,Venezia - Murano - Burano,"S. Marco, Castello, S. Elena, Cannaregio",1,0.0
+2,21378,2018-12-02,21378,1,270420776,270425045,1,Città d'acqua,Laguna Veneta (M.1 - Q.2),Venezia - Murano - Burano,"Dorsoduro, S. Polo, S. Croce, Giudecca, Sacca Fiso",0,0.0
+3,16490,2018-12-02,16494,2,270421248,270425048,2,Litorale,Lido,Lido - Pellestrina,"Lido, Malamocco, Alberoni",-4,-0.02
+4,3714,2018-12-02,3714,2,270421512,270425057,2,Litorale,Pellestrina,Lido - Pellestrina,"Pellestrina, S. Pietro In Volta",0,0.0
+5,4913,2018-12-02,4913,1,270421542,270425023,1,Città d'acqua,Isola Ex Ridotto Di Crevan,Venezia - Murano - Burano,"Murano, S. Erasmo",0,0.0
+6,2648,2018-12-02,2650,1,270421631,270425031,1,Città d'acqua,Mazzorbo,Venezia - Murano - Burano,"Burano, Mazzorbo, Torcello",-2,-0.08
+8,23373,2018-12-02,23884,3,270420775,270425078,3,Terraferma,Laguna Veneta (M.3 - Q.8),Favaro Veneto,Favaro Veneto,-511,-2.14
+9,38036,2018-12-02,38070,3,270422023,270425095,4,Terraferma,Aree Non Altrove Classificate (M.4 - Q.9),Mestre - Carpenedo,"Carpenedo, Bissuola",-34,-0.09
+10,50483,2018-12-02,50550,3,270422313,270425096,4,Terraferma,Aree Non Altrove Classificate (M.4 - Q.10),Mestre - Carpenedo,Mestre Centro,-67,-0.13
+11,15003,2018-12-02,15163,3,270422764,270425097,5,Terraferma,Cipressina,Chirignago - Zelarino,"Cipressina, Zelarino, Trivignano",-160,-1.06
+12,23569,2018-12-02,23865,3,270423049,270425118,5,Terraferma,Aree Non Altrove Classificate (M.5 - Q.12),Chirignago - Zelarino,"Chirignago, Gazzera",-296,-1.24
+13,28428,2018-12-02,28548,3,270423415,270425128,6,Terraferma,Aree Non Altrove Classificate (M.6 - Q.13),Marghera,"Marghera, Catene, Malcontenta",-120,-0.42
